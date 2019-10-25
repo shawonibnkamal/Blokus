@@ -1,0 +1,5 @@
+The first settings that appear after the starting screen is the Game Display
+option as stated in new Use Case Description 1.
+
+Under the "help" option in menu bar, user has option to view game rules
+which was implemented as stated in new Use Case Description 2.
