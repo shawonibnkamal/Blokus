@@ -1,0 +1,3 @@
+The two use cases for this iteration were not fully implemented due to them being more difficult than anticipated.
+The player is able to place only a 1 by 1 blue piece. In order for the other pieces to be placeable, there needs to be a 
+turn manager which had not been planned for yet. The rotate piece was also not implemented in this iteration.
