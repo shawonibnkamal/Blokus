@@ -1,0 +1,10 @@
+Features implemented on this game:
+- Can choose no. of players
+- Can toggle visual aid at the start or during game
+- Can save or load game under File in the top menu bar
+- Can rotate pieces uses buttons beside the grid or mouse keys
+- Can pause game and start a new game
+- Can reset existing under File in the top menu bar
+
+Things failed to implement due to lack of time:
+- Ability to play against CPU players
